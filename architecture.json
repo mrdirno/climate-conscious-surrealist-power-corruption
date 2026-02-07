@@ -1,0 +1,160 @@
+{
+  "book_id": "climate_conscious_surrealist_power_corruption",
+  "title": "The Glimmer-Crop Gospel",
+  "tagline": "In a world selling salvation, the cure is dreaming of its own corruption.",
+  "target_words": 70000,
+  "actual_words": 71390,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Commodification of Salvation",
+    "Ecological Memory & Haunting",
+    "The Surrealism of Late-Stage Mitigation",
+    "The Moral Rot of Virtuous Power"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Performance of Rain",
+      "words": 2975
+    },
+    {
+      "ch": 2,
+      "title": "The Data Stream Dream",
+      "words": 2975
+    },
+    {
+      "ch": 3,
+      "title": "The Silence of Consequence",
+      "words": 2975
+    },
+    {
+      "ch": 4,
+      "title": "The Heartland Harmony Campaign",
+      "words": 2975
+    },
+    {
+      "ch": 5,
+      "title": "The Ventilation Shaft Prophet",
+      "words": 2975
+    },
+    {
+      "ch": 6,
+      "title": "The Weeping Nodule",
+      "words": 2975
+    },
+    {
+      "ch": 7,
+      "title": "The Carbon Museum Dirge",
+      "words": 2975
+    },
+    {
+      "ch": 8,
+      "title": "The Board's Green Pulse",
+      "words": 2975
+    },
+    {
+      "ch": 9,
+      "title": "The Phosphorescent Harvest",
+      "words": 2975
+    },
+    {
+      "ch": 10,
+      "title": "The Unanticipated Synergy",
+      "words": 2975
+    },
+    {
+      "ch": 11,
+      "title": "The Poisoned Placebo",
+      "words": 2975
+    },
+    {
+      "ch": 12,
+      "title": "The Sickle Moon Graph",
+      "words": 2975
+    },
+    {
+      "ch": 13,
+      "title": "The Taste of Storage",
+      "words": 2975
+    },
+    {
+      "ch": 14,
+      "title": "The Soil's Nightmare",
+      "words": 2975
+    },
+    {
+      "ch": 15,
+      "title": "The Whiter Clouds",
+      "words": 2975
+    },
+    {
+      "ch": 16,
+      "title": "The Metaphorical Affairs",
+      "words": 2975
+    },
+    {
+      "ch": 17,
+      "title": "The Smile That Sells Topsoil",
+      "words": 2975
+    },
+    {
+      "ch": 18,
+      "title": "The Chemical Memory",
+      "words": 2975
+    },
+    {
+      "ch": 19,
+      "title": "The Symbol's Hem",
+      "words": 2975
+    },
+    {
+      "ch": 20,
+      "title": "The Ecological Expressionism",
+      "words": 2975
+    },
+    {
+      "ch": 21,
+      "title": "The Radioactive Profit",
+      "words": 2975
+    },
+    {
+      "ch": 22,
+      "title": "The Greasy Applause",
+      "words": 2975
+    },
+    {
+      "ch": 23,
+      "title": "The Last Redwood Altar",
+      "words": 2975
+    },
+    {
+      "ch": 24,
+      "title": "The Remembering Earth",
+      "words": 2965
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a 'green' tech CEO must give a tour of a 'Glimmer-crop' field to a group of terrified, yet financially beholden, farmers.",
+      "Draft the internal PR memo from the 'Heartland Harmony' campaign, spinning the glowing, pulsating crops as a feature, not a bug.",
+      "Create a monologue from the character of Emil Voss, explaining the concept of 'chemical memory' to a board of skeptical executives over a dinner of pre-industrial glacier ice.",
+      "Write a surrealist vignette from the perspective of the 'dreaming' synthetic topsoil itself, experiencing the memories of pollution it contains."
+    ],
+    "technical": [
+      "Design a speculative data-visualization interface for Mara's data-slate, showing the 'sickle-moon' profit graph layered with real-time ecological feedback from the Glimmer-crops.",
+      "Conceptualize the architecture and interactive exhibits of the 'Carbon Museum,' where personal guilt is transformed into abstract, beautiful light shows."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Jeff VanderMeer (for the New Weird ecological surrealism)",
+      "Ursula K. Le Guin (for the anthropological study of power structures)",
+      "William Gibson (for the corporate noir and tech-poetic language)",
+      "Margaret Atwood (for the sharp dissection of moral compromise in a climate crisis)"
+    ]
+  },
+  "cover_prompt": "A single, colossal and bioluminescent crop of engineered wheat, its stalks woven with faint, pulsating neural filaments and its head a grotesque, shimmering halo of golden grain and corrupted circuitry, grows defiantly from the cracked earth of a forgotten corporate fallow field, under a sky streaked with the artificial auroras of climate management arrays, [atmospheric setting with mood-appropriate details], in the hauntingly beautiful and ecologically surreal style of Zdzisław Beksiński meets the detailed biological grotesquerie of Patricia Piccinini, [book cover framing, centered composition, dramatic low-angle shot looking up at the towering, ominous crop against the technicolor sky], [appropriate lighting style with color temperature: a sickly, internal bioluminescence from the crop casting long, twisted shadows, contrasted with the cold, ethereal light of the geoengineering auroras above, using a palette of irradiated golds, corrupted violets, desaturated earth tones, and toxic greens], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
