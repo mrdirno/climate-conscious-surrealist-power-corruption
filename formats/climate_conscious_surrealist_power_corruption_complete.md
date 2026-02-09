@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER 1
 
 The rain in Los Angeles was always a performance. It didn’t fall; it struck, a greasy applause on the palm fronds and the solar panels and the stretched-taut skin of the municipal weather domes over Beverly Hills. Mara watched it from the 42nd floor, the city a smeared watercolor of brake lights and neon. The rain was wrong. It smelled of hot concrete and ozone, a metallic tang that clung to the back of the throat. A byproduct, the newsfeeds murmured, of the atmospheric scrubbers working overtime to pull the last dregs of carbon from the choked sky. The cure, sweating its own peculiar fever.
@@ -91,6 +93,8 @@ Her slate vibrated in her clutch. A message from Silas. *Squealing from the Ag-D
 Mara deleted the message without listening. She walked back into the gala, the smile reattached to her face. She was a symbol. Symbols must be visible. But as she moved through the room, the symphony of the Keeling Curve in her ears, she felt it: a new, subterranean layer to the world. Not a foundation, but an archive, pulsing softly beneath her feet, beginning to whisper its long, toxic memories up through the roots of things.
 
 The rain, beating its strange applause against the diamond spire, was the only ovation she needed. Or deserved.
+
+# Chapter 2
 
 ## CHAPTER 2
 
@@ -217,6 +221,8 @@ Voss capped the vial. “You have to stop the rollout.”
 Mara stared at the whispering nodules. She saw the sickle-moon graph of profits. She saw Alden’s banked-fire eyes. She saw her own reflection in the glass coffin. The symbol.
 
 “No,” she said, the word leaving her lips before her mind could censor it. “We have to understand it faster.”
+
+# Chapter 3
 
 ## CHAPTER 3
 
